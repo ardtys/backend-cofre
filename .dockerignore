@@ -73,3 +73,15 @@ public/mix-manifest.json
 *.log
 *.tmp
 *.temp
+
+# Development test files
+test_*.php
+check_*.php
+apply_route_fix.php
+*.bat
+*.sh
+test_*.jpg
+test_*.png
+
+# Claude
+.claude
